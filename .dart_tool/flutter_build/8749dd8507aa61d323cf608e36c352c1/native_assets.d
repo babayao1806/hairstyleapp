@@ -1,0 +1,1 @@
+ /Users/jeanhonoratoulla/workspaces/ecoiffure/mobileapp/hairstyleapp/.dart_tool/flutter_build/8749dd8507aa61d323cf608e36c352c1/native_assets.yaml: 
